@@ -13,7 +13,6 @@ Please, cite the paper if you use our code.
 
 Bug reports should be sent to eran@cs.technion.ac.il.
 
-For further updates check the authors’ website http://www.cs.technion.ac.il/~eran
 ----------------------------------------------------------------------------
 
 How to install this package:
@@ -21,6 +20,7 @@ How to install this package:
 Requirements: Matlab, compiler with OpenMP support.
 
 1) Run makeAllMex.m in the Code/MEXfunc directory of this package.
+
 2) Run demo.m and check that the example works.
 
 ----------------------------------------------------------------------------
